@@ -107,7 +107,7 @@ class belas extends ven
 	maxSpeed;
 }
 
-class kamas extends ven)
+class kamas extends ven
 {
 	$color;
 	$doors;
