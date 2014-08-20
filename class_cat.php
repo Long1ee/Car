@@ -37,10 +37,20 @@ class light extends Car
 	{
 
 	}
+
+	public function weight()
+	{
+
+	}
+
+	public function power()
+	{
+		
+	}
 }
 class bus extends Car
 {
-	public function 
+	
 }
 
 
