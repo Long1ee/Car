@@ -51,63 +51,63 @@ class ven extends Car
 }
 
 
-$bmw = new light()
+class bmw extends light 
 {
 	$color;
 	$doors;
 	maxSpeed;
 }
 
-$reno = new light()
+class reno extends light 
 {
 	$color;
 	$doors;
 	maxSpeed;
 }
 
-$porshe = new light()
+class porshe extends light 
 {
 	$color;
 	$doors;
 	maxSpeed;
 }
 
-$las = new bus()
+class porshe extends bus
 {
 	$color;
 	$doors;
 	maxSpeed;
 }
 
-$ikarus = new bus()
+class ikarus extends bus
 {
 	$color;
 	$doors;
 	maxSpeed;
 }
 
-$volvo = new bus()
+class volvo extends bus
 {
 	$color;
 	$doors;
 	maxSpeed;
 }
 
-$kras = new ven()
+class kras extends ven
 {
 	$color;
 	$doors;
 	maxSpeed;
 }
 
-$belas = new bus()
+class belas extends ven
 {
 	$color;
 	$doors;
 	maxSpeed;
 }
 
-$kamas = new bus()
+class kamas extends ven)
 {
 	$color;
 	$doors;
